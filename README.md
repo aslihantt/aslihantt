@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Merhaba%20Ben%20Aslıhan👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 ## Ben kimim?
-Merhaba ben Aslıhan Tat, İstanbul Teknik Üniversitesi'nde Endsütri mühendisliği 3. sınıf öğrencisiyim.
+Merhaba ben Aslıhan Tat, İstanbul Teknik Üniversitesi'nde Endsütri mühendisliği 3. sınıf öğrencisiyim. Veri bilimi alanında kariyer planlıyorum bunun için ağırlıklı olarak Python ve SQL programlama dilleri çalışıyorum.
 
 
 ### Kullanılan programlama dilleri
