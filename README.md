@@ -19,6 +19,7 @@ Merhaba ben Aslıhan Tat, İstanbul Teknik Üniversitesi'nde Endsütri mühendis
 
 ## Sosyal Medya Hesaplarım
 [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin)](https://www.instagram.com/ttaslihan,https://www.linkedin.com/in/aslihantat/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aslihantat/)
 
 
 
