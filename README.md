@@ -15,7 +15,7 @@ Merhaba ben Aslıhan Tat, İstanbul Teknik Üniversitesi'nde Endsütri mühendis
 - İngilizce 
 - İspanyolca
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aslihantt&data=followers,repositories,stars,commits)](https://github.com/aslihantt/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aslihantt&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/aslihantt/github-widgetbox)
 
 ## Sosyal Medya Hesaplarım
 
