@@ -20,7 +20,7 @@ Merhaba ben Aslıhan Tat, İstanbul Teknik Üniversitesi'nde Endsütri mühendis
 ## Sosyal Medya Hesaplarım
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ttaslihan) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aslihantat/)
 
-<a href=mailto:aslihantat22@gmail.co>Bana e-posta göndermek için buraya tıklayı <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" /></a>
+<a href=mailto:aslihantat22@gmail.co>Bana e-posta göndermek için buraya tıklayın <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" /></a>
 
 
 
