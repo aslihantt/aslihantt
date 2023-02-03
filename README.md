@@ -17,6 +17,7 @@ Merhaba ben Aslıhan Tat, İstanbul Teknik Üniversitesi'nde Endsütri mühendis
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aslihantt&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/aslihantt/github-widgetbox)
 
+[![Aslıhan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aslihantt&theme=react)](https://github.com/aslihantt/github-readme-activity-graph)
 ## Sosyal Medya Hesaplarım
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ttaslihan) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aslihantat/)
 
