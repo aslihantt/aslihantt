@@ -4,4 +4,4 @@
 ### Kullanılan programlama dilleri
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
 ### Kullanılan tasarım programları
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,ap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,pr)](https://skillicons.dev)
