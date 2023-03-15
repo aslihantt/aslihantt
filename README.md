@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%20I am%20Aslihan👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hello%20I_am%20Aslihan👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 ## Who am I?
 Hello, I am Aslıhan Tat, I am a 3rd year Industrial Engineering student at Istanbul Technical University. I am planning a career in data science, for this I mainly study Python and SQL programming languages.
 
